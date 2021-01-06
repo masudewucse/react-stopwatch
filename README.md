@@ -1,11 +1,10 @@
-# Getting Started with React Stop watch app
+# Getting Started with React-stopwatch app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
+## Clone the project
 In the project directory, you can run:
-
+### `npm install`
 ### `yarn start`
 
 Runs the app in the development mode.\
